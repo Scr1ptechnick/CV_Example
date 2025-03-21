@@ -1,16 +1,16 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Eileen Julieth Arias Cristancho
+**Profesión:** _Tegnologa en Gestion De Mercados_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+- **Teléfono:** +57 322 753 5304
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
+### **Ciberc C** _(2025 - Actualidad)_
 - Puesto ocupado y descripción breve.
 
 ### **Empresa ABC** _(2018 - 2020)_
